@@ -1,0 +1,14 @@
+.reload_page{
+  text-decoration: none;
+  border: 1px white solid;
+  padding: 10px;
+  transition: 0.5s;
+  margin-left: 10px;
+  /* background-color: #048ce3; */
+  text-align: center;
+}
+.reload_page:hover{
+  border: 1px black solid;
+  color: black;
+  transition: 0.5s;
+}
